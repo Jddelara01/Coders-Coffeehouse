@@ -159,3 +159,8 @@ button[type=submit] {
 form {
   width: 700px;
 }
+
+legend {
+  font-size: large;
+  font-weight: 600;
+}
