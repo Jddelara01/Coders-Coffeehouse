@@ -11,11 +11,7 @@ h1 {
 }
 
 header {
-	background-color: black;
-}
-
-p {
-	color:white;
+	background-color: brown;
 }
 
 #contact > p {
@@ -117,13 +113,22 @@ footer > p {
 }
 
 /*form html css*/
-input [type=reset] {
+input[type=reset] {
 			margin-left: 0.75rem;
 			padding: 0.75rem;
 			background-color: #5e361b;
 			color: white;
 			border: none;
 			border-radius: 5px;
+}
+
+button[type=submit] {
+	margin-left: 0.75rem;
+	padding: 0.75rem;
+	background-color: #5e361b;
+	color: white;
+	border: none;
+  border-radius: 5px;
 }
 
 form {
