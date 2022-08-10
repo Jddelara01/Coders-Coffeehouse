@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+
 h1 {
     text-align: center;
     background: yellow;
@@ -8,6 +10,19 @@ h1 {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 10px 10px 10px #ccc;
+	font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+h2 {
+	font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+h3 {
+	font-family: 'Merienda One', 'Brush Script MT', cursive;
+}
+
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
 }
 
 header {
