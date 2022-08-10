@@ -76,16 +76,24 @@ th, td {
 	font-weight: bold;
 }
 
+/*class to make width 1/3 of parent element*/
+.drinks-box {
+	width: 33%;
+}
+
 #coffee-box {
-    background-color: brown;
+  background-color: brown;
+	margin: auto;
 }
 
 #tea-box {
-    background-color: #6f4e37;
+  background-color: #6f4e37;
+	margin: auto;
 }
 
 #cold-drinks-box {
-    background-color: chocolate;
+  background-color: chocolate;
+	margin: auto;
 }
 
 footer {
