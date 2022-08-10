@@ -125,3 +125,7 @@ input [type=reset] {
 			border: none;
 			border-radius: 5px;
 }
+
+form {
+  width: 700px;
+}
