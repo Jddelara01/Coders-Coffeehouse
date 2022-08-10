@@ -15,6 +15,7 @@ h1 {
 
 h2 {
 	font-family: 'Merienda One', 'Brush Script MT', cursive;
+  font-size: xx-large;
 }
 
 h3 {
@@ -129,6 +130,7 @@ footer > a {
 	color: beige;
 	text-decoration: none;
 	padding: 0 15px;
+  font-size: 0.8rem;
 }
 
 footer > p {
