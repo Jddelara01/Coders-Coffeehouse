@@ -170,6 +170,10 @@ form {
   width: 700px;
 }
 
+small {
+  font-style: italic;
+}
+
 legend {
   font-size: large;
   font-weight: 600;
