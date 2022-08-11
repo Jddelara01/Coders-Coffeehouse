@@ -37,7 +37,10 @@ header {
 #contact > p {
 	color:black;
 }
-
+nav {
+  margin: 0 auto 5px;
+	padding: 1rem;
+}
 nav > a {
 	color: beige;
 	margin: 1rem;
@@ -70,7 +73,6 @@ tr {
 	margin-left: auto;
 	margin-right: auto;
 }
-
 
 tr, th, td {
 	text-align: center;
@@ -105,6 +107,10 @@ img {
 	border-radius: 8px;
 	width: 100%;
 }	
+
+.black-background {
+  background-color: black;
+}
 
 .text-center {
 	text-align: center;
