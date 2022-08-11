@@ -34,6 +34,12 @@ header {
 	color:black;
 }
 
+nav > a {
+	color: beige;
+	margin: 1rem;
+	text-decoration: none;
+}
+
 a:hover {
 	text-decoration: none;
 	color: chocolate;
