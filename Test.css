@@ -137,6 +137,10 @@ footer > p {
 	color: silver;
 }
 
+.text-uppercase {
+  text-transform: uppercase;
+}
+
 /*form html css*/
 input[type=reset] {
 			margin-left: 0.75rem;
@@ -163,4 +167,5 @@ form {
 legend {
   font-size: large;
   font-weight: 600;
+  text-transform: uppercase;
 }
