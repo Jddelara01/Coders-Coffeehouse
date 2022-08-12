@@ -214,6 +214,10 @@ button[type=submit] {
 
 form {
   width: 700px;
+	padding: 25px;
+	border-radius: 8px;
+	margin: 25px auto;
+	background-color: white; 
 }
 
 small {
@@ -224,4 +228,22 @@ legend {
   font-size: large;
   font-weight: 600;
   text-transform: uppercase;
+}
+
+select {
+    padding-left: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+input[type=text],
+input[type=email],
+input[list=coffees] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+}
+
+.block-label {
+	display: block;
 }
