@@ -23,9 +23,11 @@ h3 {
 }
 
 #home {
-    background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffeehouse.jpg');
+  height: 40vh;
+  background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffeehouse.jpg');
   background-size: cover;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  background-position: center 75%;
 }
 
 .form-page-header {
@@ -118,6 +120,7 @@ img {
 	background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffee-beans.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center center;
 }
 
 .reasons-box {
