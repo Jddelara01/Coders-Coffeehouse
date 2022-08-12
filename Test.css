@@ -117,11 +117,7 @@ img {
 #drinks {
 	padding: 1rem 0;
 	margin-bottom: 50px;
-	background-image: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffee-beans.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
+  background: url('https://codeinstitute.s3-eu-west-1.amazonaws.com/CSSEssentials/coffee-beans.jpg') center center / cover no-repeat fixed;
 }
 
 .reasons-box {
