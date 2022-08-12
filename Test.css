@@ -126,7 +126,13 @@ img {
   padding: 10px 5px 25px 5px;
 	border-radius: 8px;
 	width: 100%;
+  margin: 2%;
 }	
+
+.one-third-width-column {
+    display: inline-block;
+    width: 33%;
+}
 
 .black-background {
   background-color: black;
